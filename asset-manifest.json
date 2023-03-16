@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fullstackecomersproject/static/css/main.ecff9e61.chunk.css",
+    "main.js": "/fullstackecomersproject/static/js/main.2a409fd0.chunk.js",
+    "main.js.map": "/fullstackecomersproject/static/js/main.2a409fd0.chunk.js.map",
+    "runtime-main.js": "/fullstackecomersproject/static/js/runtime-main.56b65264.js",
+    "runtime-main.js.map": "/fullstackecomersproject/static/js/runtime-main.56b65264.js.map",
+    "static/js/2.d4fab9d0.chunk.js": "/fullstackecomersproject/static/js/2.d4fab9d0.chunk.js",
+    "static/js/2.d4fab9d0.chunk.js.map": "/fullstackecomersproject/static/js/2.d4fab9d0.chunk.js.map",
+    "static/js/3.508c2eb3.chunk.js": "/fullstackecomersproject/static/js/3.508c2eb3.chunk.js",
+    "static/js/3.508c2eb3.chunk.js.map": "/fullstackecomersproject/static/js/3.508c2eb3.chunk.js.map",
+    "index.html": "/fullstackecomersproject/index.html",
+    "static/css/main.ecff9e61.chunk.css.map": "/fullstackecomersproject/static/css/main.ecff9e61.chunk.css.map",
+    "static/js/2.d4fab9d0.chunk.js.LICENSE.txt": "/fullstackecomersproject/static/js/2.d4fab9d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56b65264.js",
+    "static/js/2.d4fab9d0.chunk.js",
+    "static/css/main.ecff9e61.chunk.css",
+    "static/js/main.2a409fd0.chunk.js"
+  ]
+}
